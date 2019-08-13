@@ -1,0 +1,3 @@
+Jenkins==> https://jenkins.sharedtools.vet-tools.digitalecp.mcd.com/
+Bitbucket==> https://bitbucket.sharedtools.vet-tools.digitalecp.mcd.com/projects
+github==> https://github.com/akswamy007/KT_Videos_Profile/upload
