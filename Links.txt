@@ -1,3 +1,5 @@
 Jenkins==> https://jenkins.sharedtools.vet-tools.digitalecp.mcd.com/
 Bitbucket==> https://bitbucket.sharedtools.vet-tools.digitalecp.mcd.com/projects
 github==> https://github.com/akswamy007/KT_Videos_Profile/upload
+sql Connect==> https://docs.microsoft.com/en-us/sql/ssms/tutorials/connect-query-sql-server?view=sql-server-2017
+Sql server download steps==> https://www.sqlshack.com/step-by-step-installation-of-sql-server-2017/
